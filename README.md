@@ -11,3 +11,7 @@ The standard implementation of ERC20 token.
 			balances[msg.sender] = totalSupply();
 		}
 	}
+	
+# 不要脸的注释
+
+这是强哥写的， 我是拖过来做一个随手工具。
